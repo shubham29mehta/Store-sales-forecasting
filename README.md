@@ -8,7 +8,7 @@ You can get the data from https://www.kaggle.com/c/m5-forecasting-accuracy/data.
 
 # Evaluation Metrics
 
-**Weighted MAPE** is used as the evaluation metric. 2 models were tested on the data with the following results:
+**Weighted MAPE** is used as the evaluation metric. 3 different time series models were tested on the data with the following results:
 
 * Baseline(Seasonal Naive): 14.5%
 * Prophet: 9.7%
