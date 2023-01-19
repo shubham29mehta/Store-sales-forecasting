@@ -6,8 +6,15 @@ The goal of this project is to forecast the sales of the respective stores by ea
 
 You can get the data from https://www.kaggle.com/c/m5-forecasting-accuracy/data. I have used a subset of data to train,validate and test the model.
 
-#Evaluation Metrics
+# Evaluation Metrics
 
 **Weighted MAPE** is used as the evaluation metric. 2 models were tested on the data with the following results:
+
+* Baseline(Seasonal Naive): 14.5%
+* Prophet: 9.7%
+* LSTM:9.11%
+
+
+
 
 
